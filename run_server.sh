@@ -1,4 +1,4 @@
 #!/bin/bash
 
 echo "starting server"
-nohup node server.js &
+nohup node server/server.js &
